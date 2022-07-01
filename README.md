@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Languages and Tools:
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![PHP](https://img.icons8.com/color/30/php.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <br/>
 
 ## 📊 My Github Stats
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/naitikpatel031/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href = "https://twitter.com/n41tik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/naitikpatel031/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a target="_blank" href = "https://twitter.com/n41tik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 
 </p>
