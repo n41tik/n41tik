@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-<a target="_blank" href = "https://www.linkedin.com/in/naitikpatel031/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a target="_blank" href = "https://www.linkedin.com/in/n41tik"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a target="_blank" href = "https://twitter.com/n41tik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 
 </p>
